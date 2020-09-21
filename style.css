@@ -1,0 +1,71 @@
+.h1{
+    color: darkgreen;
+    margin-left: 500px;
+    padding-right: 20px;
+}
+.menu{
+    color: darkturquoise;
+    margin-left: 550px;
+    padding-right: 20px;
+}
+.origami{
+    display: flex;
+    justify-content:space-between;
+    align-items: stretch;
+    
+    flex-wrap: nowrap;
+}
+.chameleon{
+    background-image: url('chamaleonbg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100px;
+    height: 100vh;
+}
+.pigeon{
+    background-image: url('pigeonbg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 200px;
+    height: 100vh;
+}
+.panda{
+    background-image: url('pandabg.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 400px;
+    height: 100vh;
+}
+.cicada{
+    background-image: url('cicadabg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 290px;
+    height: 100vh;
+}
+.camel{
+    background-image: url('camelbg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 390px;
+    height: 100vh;
+}
+.teddy{
+    background-image: url('bearbg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 390px;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+a:visited{
+    color: lime;
+}
